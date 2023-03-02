@@ -1,0 +1,7 @@
+// api/category/get-all-category
+// api/news/add-news
+// api/news/get-all-news/?pageLimit=3&pageNo=1
+// api/news/get-news-byId?id=63fb35cb09bab2d3774ed6fa
+// api/news/get-slider-news
+// api/news/get-news-category?id=63f880909708e1bb3f7b4519
+// api/news/delete-news?id=63fb35cb09bab2d3774ed6fa 
